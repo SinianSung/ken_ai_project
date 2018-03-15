@@ -1,7 +1,7 @@
 import re
 import random
 
-
+# translate into german
 reflections = {
     "am": "are",
     "was": "were",
